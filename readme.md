@@ -14,15 +14,19 @@ A sleek and modern **E-Learning Landing Page** built using **HTML** and **CSS**.
 
 ### 🖥️ Desktop Preview
 
-![E-Learning Landing Page Desktop Preview]()
+![E-Learning Landing Page Desktop Preview](/assets/design/desktop-preview1.png)
+![E-Learning Landing Page Desktop Preview](/assets/design/desktop-preview2.png)
 
 ### 📱 Tablet Preview
 
-![E-Learning Landing Page Table Preview]()
+![E-Learning Landing Page Table Preview](/assets/design/tablet-preview1.png)
+![E-Learning Landing Page Table Preview](/assets/design/tablet-preview2.png)
 
 ### 📱 Mobile Preview
 
-![E-Learning Landing Page Mobile Preview]()
+![E-Learning Landing Page Mobile Preview](/assets/design/mobile-preview1.png)
+![E-Learning Landing Page Mobile Preview](/assets/design/mobile-preview2.png)
+![E-Learning Landing Page Mobile Preview](/assets/design/mobile-preview3.png)
 
 ---
 
