@@ -1,13 +1,6 @@
 # 🎓📚 E-Learning Landing Page
 
 A sleek and modern **E-Learning Landing Page** built using **HTML** and **CSS**. Designed to highlight online education content with a clean layout, engaging visuals, and fully responsive design. (Frontend Mentor Challenge)
-
----
-
-## 🚀 Live Demo
-
-### 🌐 [**Live Site**](https://e-learning-langin-page-xo1.netlify.app/)
-
 ---
 
 ## 🖼️ Preview
